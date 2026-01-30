@@ -1,0 +1,15 @@
+/* generated using openapi-typescript-codegen -- do not edit */
+/* istanbul ignore file */
+/* tslint:disable */
+/* eslint-disable */
+export type PessoaJuridicaRecorrencia = {
+    /**
+     * CNPJ do usuário.
+     */
+    cnpj: string;
+    /**
+     * Nome do usuário.
+     */
+    nome: string;
+};
+

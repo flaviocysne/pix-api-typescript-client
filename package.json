@@ -1,0 +1,17 @@
+{
+  "name": "@pix/pix-api-client",
+  "version": "0.0.1",
+  "description": "",
+  "license": "Apache-2.0",
+  "author": "Flavio Cysne",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flaviocysne/pix-api-typescript-client.git"
+  },
+  "devDependencies": {
+    "tslib": "^2.8.1"
+  }
+}
