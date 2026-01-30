@@ -15,14 +15,7 @@
     "sourceMap": true,
     "allowJs": false,
     "outDir": "dist",
-    "baseUrl": ".",
-    "paths": {
-      "@pix/pix-api": ["./packages/pix-api"],
-      "@pix/pix-api/*": ["./packages/pix-api/*"],
-      "@pix/pix-dict-api": ["./packages/pix-dict-api"],
-      "@pix/pix-dict-api/*": ["./packages/pix-dict-api/*"]
-    }
+    "baseUrl": "."
   },
-  "include": ["packages/**/*", "integration/**/*"],
   "exclude": ["node_modules", "**/*.spec.ts"]
 }
